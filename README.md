@@ -8,3 +8,7 @@ This process continues until the board is solved.
 ## Images
 
 ![SS1](https://user-images.githubusercontent.com/61571857/114411864-2f797c80-9b72-11eb-8471-3f37a182fc30.JPG)
+
+
+![SS2](https://user-images.githubusercontent.com/61571857/114412056-5fc11b00-9b72-11eb-9350-2d61ca5b695d.JPG)
+ 
